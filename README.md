@@ -32,12 +32,12 @@ $ cd COVID-19_Croatia_viewer
 ## Features
 
 - [x] Interactive map
-- [x] Real-time data
+- [x] Real-time daily data
 - [x] Date-Time slider
 - [x] Table view
 - [X] Color graded stats
-- [ ] Offline support
-- [ ] Auto updates
+- [ ] Chart view
+- [ ] Export data
 
 ## Built with
 - [arcgis](https://developers.arcgis.com/)
