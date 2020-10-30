@@ -17,8 +17,8 @@ It is the ultimate way to view COVID-19 statistics in Croatia:raised_hands:.
 
 ### Windows
 
-1. Download [KoronaView-win.x.x.x.zip][FR]
-2. Open or unzip the file and start the `Setup.exe`.
+1. Download latest [Setup.exe][FR] release.
+2. Start the `Setup.exe`.
 3. Done!
 
 ### For developers
