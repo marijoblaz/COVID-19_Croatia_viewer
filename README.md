@@ -10,14 +10,14 @@ Build using C# and WPF :rocket: environment.
 It is the ultimate way to view COVID-19 statistics in Croatia:raised_hands:.
 
 # Demo
-<img src="https://github.com/marijoblaz/COVID-19_Croatia_viewer/blob/main/UsageBasic.gif">
+<img src="https://github.com/marijoblaz/COVID-19_Croatia_viewer/blob/main/Usage2.gif">
 
 ## Installation
 [FR]: https://github.com/marijoblaz/COVID-19_Croatia_viewer/releases
 
 ### Windows
 
-1. Download latest [Setup.exe][FR] release.
+1. Download latest [Setup.exe][FR] binary in releases.
 2. Start the `Setup.exe`.
 3. Done!
 
@@ -40,8 +40,10 @@ $ cd COVID-19_Croatia_viewer
 - [ ] Export data
 
 ## Built with
+- [Newtonsoft.Json] (https://github.com/JamesNK/Newtonsoft.Json)
 - [arcgis](https://developers.arcgis.com/)
 - [HandyControl](https://github.com/HandyOrg/HandyControl)
+- [Squirrel] (https://github.com/Squirrel/Squirrel.Windows)
 
 ## License
 MIT  © [Marijo Blazevic](https://opensource.org/licenses/MIT)
