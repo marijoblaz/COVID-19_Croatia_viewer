@@ -40,10 +40,10 @@ $ cd COVID-19_Croatia_viewer
 - [ ] Export data
 
 ## Built with
-- [Newtonsoft.Json] (https://github.com/JamesNK/Newtonsoft.Json)
+- [Newtonsoft.Json](https://github.com/JamesNK/Newtonsoft.Json)
 - [arcgis](https://developers.arcgis.com/)
 - [HandyControl](https://github.com/HandyOrg/HandyControl)
-- [Squirrel] (https://github.com/Squirrel/Squirrel.Windows)
+- [Squirrel](https://github.com/Squirrel/Squirrel.Windows)
 
 ## License
 MIT  © [Marijo Blazevic](https://opensource.org/licenses/MIT)
