@@ -10,7 +10,7 @@ Build using C# and WPF :rocket: environment.
 It is the ultimate way to view COVID-19 statistics in Croatia:raised_hands:.
 
 # Demo
-<img src="https://github.com/marijoblaz/COVID-19_Croatia_viewer/blob/main/Usage2.gif">
+<img src="https://github.com/marijoblaz/COVID-19_Croatia_viewer/blob/main/Usage.gif">
 
 ## Installation
 [FR]: https://github.com/marijoblaz/COVID-19_Croatia_viewer/releases
